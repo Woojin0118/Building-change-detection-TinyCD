@@ -1,1 +1,1 @@
-# Building-change-detection-TinyCD
+# TinyCD
